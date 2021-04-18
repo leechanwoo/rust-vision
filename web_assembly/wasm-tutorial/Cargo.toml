@@ -1,0 +1,54 @@
+[package]
+name = "wasm-tutorial"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wasm-bindgen = { version = "0.2.73", features = ["serde-serialize"] }
+js-sys = "0.3.50"
+humantime = "2"
+wasm-bindgen-futures = "0.4.23"
+serde = { version = "1.0.80", features = ["derive"] }
+serde_derive = "^1.0.59"
+
+
+[dependencies.web-sys]
+version = "0.3.4"
+features = [ 
+  'CssStyleDeclaration',
+  'Document',
+  'Element',
+  'HtmlElement',
+  'HtmlCanvasElement',
+  'WebGlBuffer',
+  'WebGlRenderingContext',
+  'WebGlProgram',
+  'WebGlShader',
+  'Window',
+  'Performance',
+  'PerformanceTiming',
+  'Headers',
+  'Request',
+  'RequestInit',
+  'RequestMode',
+  'Response',
+  'CanvasRenderingContext2d',
+  'MessageEvent',
+  "RtcPeerConnection",
+  "RtcSignalingState",
+  "RtcSdpType",
+  "RtcSessionDescriptionInit",
+  "RtcPeerConnectionIceEvent",
+  "RtcIceCandidate",
+  "RtcDataChannel",
+  "RtcDataChannelEvent",
+]
+
+
+

@@ -1,0 +1,14 @@
+/home/functional/target/debug/deps/frunk_core-5c9aae7fc1fedaa4.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/macros.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/coproduct.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/generic.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/hlist.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/indices.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/labelled.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/path.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/traits.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/tuples.rs
+
+/home/functional/target/debug/deps/frunk_core-5c9aae7fc1fedaa4.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/macros.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/coproduct.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/generic.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/hlist.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/indices.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/labelled.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/path.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/traits.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/tuples.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/macros.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/coproduct.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/generic.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/hlist.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/indices.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/labelled.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/path.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/traits.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.3.1/src/tuples.rs:

@@ -1,0 +1,14 @@
+/workspace/cargo_target/debug/deps/v_escape-e9d796393e02d3d2.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/scalar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/avx.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/sse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/switch.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/chars.rs
+
+/workspace/cargo_target/debug/deps/libv_escape-e9d796393e02d3d2.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/scalar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/avx.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/sse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/switch.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/chars.rs
+
+/workspace/cargo_target/debug/deps/v_escape-e9d796393e02d3d2.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/scalar.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/avx.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/sse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/switch.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/chars.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/macros.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/scalar.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/avx.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/sse.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/ranges/switch.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/v_escape-0.15.0/src/chars.rs:

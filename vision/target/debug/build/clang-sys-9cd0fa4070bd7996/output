@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/usr/lib/llvm-3.8/lib
+cargo:rustc-link-lib=dylib=clang-3.8.0
